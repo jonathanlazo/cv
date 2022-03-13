@@ -1,0 +1,30 @@
+  body {
+    background-color: #FFEEAD;
+  }
+
+  hr {
+    border-style: none;
+    border-color: #116530;
+    border-top-style:dotted;
+    border-width: 7px;
+    width:10%;
+  }
+
+  h1 {
+    color: #116530;
+  }
+
+h2 {
+  color: #116530;
+}
+
+h3 {
+  color: #116530;
+}
+
+img.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height:150px;
+  width: 150px;
+}
